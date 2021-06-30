@@ -1,6 +1,8 @@
 # Cell Tracking
 This is an ImageJ/Fiji macro, which can track cells in time-lapse sequence movies. The input to the macro is a thresholded binary time-lapse stack, where cells are properly segmented.
 
+<img src="Movie - Cell centroid tracking macro demo in 1D and 2D.gif" alt="Movie showing cell tracking in 1D and 2D">  
+
 legend:
 
 # Download
