@@ -20,7 +20,7 @@ Here is the user interface for setting the parameters for cell tracking:
 Tracking happens one cell at a time. User needs to trace the cell using either the Wand tool or the freehand selection in the first frame and then run this macro. After tracking is completed, macro prints a list of (X, Y) cell centroid coordinates (+ other user-selected measurements) for the tracked cell in a tab-delimited log file, which can be copied and pasted into a CSV or Excel file for futher cell motility analysis.
   
 # How to Cite
-Sharma, V.P.; Williams, J.; Leung, E.; Sanders, J.; Eddy, R.; Castracane, J.; Oktay, M.H.; Entenberg, D.; Condeelis, J.S. SUN-MKL1 Crosstalk Regulates Nuclear Deformation and Fast Motility of Breast Carcinoma Cells in Fibrillar ECM Microenvironment. Cells 2021, 10, 1549. https://doi.org/10.3390/cells10061549
+Sharma VP, Williams J, Leung E, Sanders J, Eddy R, Castracane J, Oktay MH, Entenberg D, Condeelis JS. SUN-MKL1 Crosstalk Regulates Nuclear Deformation and Fast Motility of Breast Carcinoma Cells in Fibrillar ECM Microenvironment. Cells. 2021 Jun 19;10(6):1549. PMID: 34205257
 
 # License
 See [license](https://github.com/ved-sharma/HyperStackReg/blob/master/LICENSE) file
